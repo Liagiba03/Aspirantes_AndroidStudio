@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aspirantes</string>
+    <string-array name="tipoBachillerato">
+        <item>--Seleccionar--</item>
+        <item>Fisico - matematico</item>
+        <item>Humanidades</item>
+        <item>Ciencias de la salud</item>
+    </string-array>
+    <string-array name="carrera">
+        <item>--Selecciona--</item>
+        <item>Ingeniería Industrial</item>
+        <item>Ingeniería en Sistemas Computacionales</item>
+    </string-array>
+</resources>
